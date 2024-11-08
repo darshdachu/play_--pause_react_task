@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#videoBlock{
+  border: 3px solid white;
+  height: 400px;
+  width: 650px;
+}
